@@ -8,7 +8,7 @@
 ## Зоны телепортации при перезаходе
 Данная настройка не запрещает выход в заданных зонах, она лишь телепортирует игрока в случайную позицию при заходе с выводом уведомления
 
-+ Все файлы находятся по пути: [___NewStory\Configurations\RelogBanOnPositions___](https://github.com/HunKloud/https://github.com/HunKloud/NewStory-DayZ-Doc/tree/main/Server/profiles/NewStory/Configurations/RelogBanOnPositions/)
++ Все файлы находятся по пути: [___NewStory\Configurations\RelogBanOnPositions___](https://github.com/HunKloud/NewStory-DayZ-Doc/tree/main/Server/profiles/NewStory/Configurations/RelogBanOnPositions/)
 + Кроме того все файлы имеют рассширения ___.json___
 + Название файла может быть любым, но желательно что было понятно для какой зоны он сделан
     + Например: ___KordonDungeon.json___
