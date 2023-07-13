@@ -27,3 +27,113 @@
     >
     > + Заполняется такими же объектами как и этот
     >
+
+```json
+{
+    "Hands": {
+        "Name": "NSg_Weapon_VAL|SetInQuickBar 1",
+        "Inventory": [
+            {
+                "Name": "NSg_Mag_VAL_30Rnd|Ammo Ammo_9x39AP|FillChamber",
+                "Quantity": [30]
+            },
+            {
+                "Name": "NSg_Weapon_VAL_BarrelShort"
+            },
+            {
+                "Name": "NSg_Weapon_Bttstck_Adapter"
+            },
+            {
+                "Name": "NSg_Weapon_M4_Bttstck_GEN3"
+            },
+            {
+                "Name": "NSg_Weapon_GripBox_CQR"
+            }
+        ]
+    },
+    "Clothes": [
+        {
+            "Name": "NSg_Bunny_Hips_Helmet"
+        },
+        {
+            "Name": "NSg_Bunny_Hips_Vest",
+            "Inventory": [
+                {
+                    "Name": "HuntingKnife"
+                },
+                {
+                    "Name": "NSg_Mag_VAL_30Rnd|Ammo Ammo_9x39AP|SetInQuickBar 2",
+                    "Quantity": [30]
+                },
+                {
+                    "Name": "NSg_Mag_VAL_30Rnd|Ammo Ammo_9x39AP|SetInQuickBar 3",
+                    "Quantity": [30]
+                },
+                {
+                    "Name": "NSg_Mag_VAL_30Rnd|Ammo Ammo_9x39AP",
+                    "Quantity": [30]
+                },
+                {
+                    "Name": "NSg_Mag_VAL_30Rnd|Ammo Ammo_9x39AP",
+                    "Quantity": [30]
+                },
+                {
+                    "Name": "NSg_Mag_VAL_30Rnd|Ammo Ammo_9x39AP",
+                    "Quantity": [30]
+                },
+                {
+                    "Name": "NSg_Mag_VAL_30Rnd|Ammo Ammo_9x39AP",
+                    "Quantity": [30]
+                }
+            ]
+        },
+        {
+            "Name": "NSg_Bunny_Hips_Jacket"
+        },
+        {
+            "Name": "NSg_Bunny_Hips_Pants"
+        },
+        {
+            "Name": "NSg_Bunny_Hips_Boots"
+        },
+        {
+            "Name": "NSg_Bunny_Hips_Belt"
+        },
+        {
+            "Name": "NSg_Bunny_Hips_Backpack",
+            "Inventory": [
+                {
+                    "Name": "WaterBottle|SetInQuickBar 6",
+                    "Quantity": [1]
+                },
+                {
+                    "Name": "WaterBottle",
+                    "Quantity": [0.5]
+                },
+                {
+                    "Name": "WaterBottle",
+                    "Quantity": [1]
+                },
+                {
+                    "Name": "BandageDressing|SetInQuickBar 4",
+                    "Quantity": [1, 4]
+                },
+                {
+                    "Name": "BandageDressing|SetInQuickBar 5",
+                    "Quantity": [1]
+                },
+                {
+                    "Name": "BandageDressing",
+                    "Quantity": [4]
+                },
+                {
+                    "Name": "Lunchmeat|SetInQuickBar 7"
+                },
+                {
+                    "Name": "Lockpick|SetInQuickBar 8"
+                }
+            ]
+        }
+    ]
+}
+```
