@@ -1,0 +1,15 @@
+[
+    {
+        "Name": "Mosin9130|Ammo Ammo_762x54Tracer",
+        "Quantity": [0, 5]
+    },
+    {
+        "Name": "AKM",
+        "Attachments": [
+            {
+                "Name": "Mag_AKM_30Rnd|Ammo Ammo_762x39Tracer",
+                "Quantity": [0, 30]
+            }
+        ]
+    }
+]
